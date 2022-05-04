@@ -1,0 +1,15 @@
+{ "command": "room", "venue": "UNSW", "room": "Oboe", "size": "small" }
+{ "command": "room", "venue": "UNSW", "room": "Flute", "size": "small" }
+{ "command": "room", "venue": "UNSW", "room": "Strings", "size": "large" }
+{ "command": "room", "venue": "USYD", "room": "Sunflower", "size": "small" }
+{ "command": "room", "venue": "USYD", "room": "Iris", "size": "large" }
+{ "command": "room", "venue": "USYD", "room": "Lily", "size": "large" }
+{ "command": "request", "id": "Arc Sport Meeting", "start": "2019-10-10", "end": "2019-10-10", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "Apple Cider Convention", "start": "2019-10-09", "end": "2019-10-11", "small": 1, "medium": 0, "large": 1 }
+{ "command": "cancel", "id": "Arc Sport Meeting" }
+{ "command": "request", "id": "EngSoc Ball", "start": "2019-10-12", "end": "2019-10-12", "small": 0, "medium": 0, "large": 1 }
+{ "command": "request", "id": "Camp", "start": "2019-10-11", "end": "2019-10-14", "small": 2, "medium": 0, "large": 0 }
+{ "command": "cancel", "id": "Apple Cider Convention" }
+{ "command": "request", "id": "CSE Revue", "start": "2019-10-12", "end": "2019-10-14" , "small": 1, "medium": 0, "large": 1 }
+{ "command": "list", "venue": "UNSW" }
+{ "command": "list", "venue": "USYD" }

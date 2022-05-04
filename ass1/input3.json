@@ -1,0 +1,19 @@
+{ "command": "room", "venue": "UNSW", "room": "Oboe", "size": "small" }
+{ "command": "room", "venue": "UNSW", "room": "Flute", "size": "small" }
+{ "command": "room", "venue": "UNSW", "room": "Strings", "size": "large" }
+{ "command": "room", "venue": "UNSW", "room": "Drum", "size": "medium" }
+{ "command": "room", "venue": "USYD", "room": "Sunflower", "size": "small" }
+{ "command": "room", "venue": "USYD", "room": "Iris", "size": "medium" }
+{ "command": "room", "venue": "USYD", "room": "Lily", "size": "large" }
+{ "command": "request", "id": "Arts Conference", "start": "2019-10-20", "end": "2020-10-22", "small": 1, "medium": 1, "large": 1 }
+{ "command": "request", "id": "Science Conference", "start": "2019-10-23", "end": "2020-10-25", "small": 0, "medium": 1, "large": 1 }
+{ "command": "list", "venue": "UNSW" }
+{ "command": "list", "venue": "USYD" }
+{ "command": "change", "id": "Arts Conference", "start": "2019-10-20", "end": "2020-10-22", "small": 2, "medium": 1, "large": 1 }
+{ "command": "change", "id": "Science Conference", "start": "2019-10-23", "end": "2020-10-26", "small": 1, "medium": 1, "large": 1 }
+{ "command": "list", "venue": "UNSW" }
+{ "command": "list", "venue": "USYD" }
+{ "command": "cancel", "id": "Arts Conference"}
+{ "command": "cancel", "id": "Science Conference"}
+{ "command": "list", "venue": "UNSW" }
+{ "command": "list", "venue": "USYD" }

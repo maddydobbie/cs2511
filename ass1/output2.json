@@ -1,0 +1,75 @@
+{
+  "venue": "UNSW",
+  "rooms": [
+    "Oboe",
+    "Strings",
+    "Drum"
+  ],
+  "status": "success"
+}
+{
+  "venue": "USYD",
+  "rooms": [
+    "Iris",
+    "Lily"
+  ],
+  "status": "success"
+}
+{
+  "venue": "UNSW",
+  "rooms": [
+    "Oboe",
+    "Flute",
+    "Drum"
+  ],
+  "status": "success"
+}
+{
+  "venue": "UNSW",
+  "rooms": ["Strings"],
+  "status": "success"
+}
+[
+  {
+    "reservations": [],
+    "room": "Oboe"
+  },
+  {
+    "reservations": [],
+    "room": "Flute"
+  },
+  {
+    "reservations": [{
+      "start": "2019-10-26",
+      "end": "2020-10-27",
+      "id": "Science Camp"
+    }],
+    "room": "Strings"
+  },
+  {
+    "reservations": [],
+    "room": "Drum"
+  }
+]
+[
+  {
+    "reservations": [],
+    "room": "Sunflower"
+  },
+  {
+    "reservations": [{
+      "start": "2019-10-23",
+      "end": "2020-10-25",
+      "id": "Arts Camp"
+    }],
+    "room": "Iris"
+  },
+  {
+    "reservations": [{
+      "start": "2019-10-23",
+      "end": "2020-10-25",
+      "id": "Arts Camp"
+    }],
+    "room": "Lily"
+  }
+]

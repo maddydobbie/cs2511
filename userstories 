@@ -1,0 +1,34 @@
+collect items 
+	can pick up key
+	can pick sword
+	can pick potion
+	can pick up treaure
+
+use items
+	can use sword on enemy
+	can use key on door
+	can use potion
+
+player traits
+	can move player
+	see the avatar on screen
+	invenotry (key and sword)
+
+enemy
+	enemies that move towards avatar
+	enemy dies after sword
+	enemy runs away from potions
+	enemy dies if comes in contact with person with potion
+	enemy kills avatar if no potion and not sword
+	enemies cant run through walls
+	enemy stops if cant  ove closer
+
+interact with environmental features
+	Push boulder
+	Depress Floor Switch with Boulder
+ 	Unpress Floor Switch with Boulder
+	Go through portal (resut is at exit of portal)
+	Go through exit
+	Go through door (only if key)
+	one boulder at a time
+

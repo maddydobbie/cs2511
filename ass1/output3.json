@@ -1,0 +1,180 @@
+{
+  "venue": "UNSW",
+  "rooms": [
+    "Oboe",
+    "Strings",
+    "Drum"
+  ],
+  "status": "success"
+}
+{
+  "venue": "USYD",
+  "rooms": [
+    "Iris",
+    "Lily"
+  ],
+  "status": "success"
+}
+[
+  {
+    "reservations": [{
+      "start": "2019-10-20",
+      "end": "2020-10-22",
+      "id": "Arts Conference"
+    }],
+    "room": "Oboe"
+  },
+  {
+    "reservations": [],
+    "room": "Flute"
+  },
+  {
+    "reservations": [{
+      "start": "2019-10-20",
+      "end": "2020-10-22",
+      "id": "Arts Conference"
+    }],
+    "room": "Strings"
+  },
+  {
+    "reservations": [{
+      "start": "2019-10-20",
+      "end": "2020-10-22",
+      "id": "Arts Conference"
+    }],
+    "room": "Drum"
+  }
+]
+[
+  {
+    "reservations": [],
+    "room": "Sunflower"
+  },
+  {
+    "reservations": [{
+      "start": "2019-10-23",
+      "end": "2020-10-25",
+      "id": "Science Conference"
+    }],
+    "room": "Iris"
+  },
+  {
+    "reservations": [{
+      "start": "2019-10-23",
+      "end": "2020-10-25",
+      "id": "Science Conference"
+    }],
+    "room": "Lily"
+  }
+]
+{
+  "venue": "UNSW",
+  "rooms": [
+    "Oboe",
+    "Flute",
+    "Strings",
+    "Drum"
+  ],
+  "status": "success"
+}
+{
+  "venue": "USYD",
+  "rooms": [
+    "Sunflower",
+    "Iris",
+    "Lily"
+  ],
+  "status": "success"
+}
+[
+  {
+    "reservations": [{
+      "start": "2019-10-20",
+      "end": "2020-10-22",
+      "id": "Arts Conference"
+    }],
+    "room": "Oboe"
+  },
+  {
+    "reservations": [{
+      "start": "2019-10-20",
+      "end": "2020-10-22",
+      "id": "Arts Conference"
+    }],
+    "room": "Flute"
+  },
+  {
+    "reservations": [{
+      "start": "2019-10-20",
+      "end": "2020-10-22",
+      "id": "Arts Conference"
+    }],
+    "room": "Strings"
+  },
+  {
+    "reservations": [{
+      "start": "2019-10-20",
+      "end": "2020-10-22",
+      "id": "Arts Conference"
+    }],
+    "room": "Drum"
+  }
+]
+[
+  {
+    "reservations": [{
+      "start": "2019-10-23",
+      "end": "2020-10-26",
+      "id": "Science Conference"
+    }],
+    "room": "Sunflower"
+  },
+  {
+    "reservations": [{
+      "start": "2019-10-23",
+      "end": "2020-10-26",
+      "id": "Science Conference"
+    }],
+    "room": "Iris"
+  },
+  {
+    "reservations": [{
+      "start": "2019-10-23",
+      "end": "2020-10-26",
+      "id": "Science Conference"
+    }],
+    "room": "Lily"
+  }
+]
+[
+  {
+    "reservations": [],
+    "room": "Oboe"
+  },
+  {
+    "reservations": [],
+    "room": "Flute"
+  },
+  {
+    "reservations": [],
+    "room": "Strings"
+  },
+  {
+    "reservations": [],
+    "room": "Drum"
+  }
+]
+[
+  {
+    "reservations": [],
+    "room": "Sunflower"
+  },
+  {
+    "reservations": [],
+    "room": "Iris"
+  },
+  {
+    "reservations": [],
+    "room": "Lily"
+  }
+]

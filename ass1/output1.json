@@ -1,0 +1,67 @@
+{
+  "venue": "UNSW",
+  "rooms": ["Oboe"],
+  "status": "success"
+}
+{
+  "venue": "UNSW",
+  "rooms": [
+    "Flute",
+    "Strings"
+  ],
+  "status": "success"
+}
+{
+  "venue": "UNSW",
+  "rooms": ["Strings"],
+  "status": "success"
+}
+{"status": "rejected"}
+{
+  "venue": "USYD",
+  "rooms": [
+    "Sunflower",
+    "Iris"
+  ],
+  "status": "success"
+}
+[
+  {
+    "reservations": [],
+    "room": "Oboe"
+  },
+  {
+    "reservations": [],
+    "room": "Flute"
+  },
+  {
+    "reservations": [{
+      "start": "2019-10-12",
+      "end": "2019-10-12",
+      "id": "EngSoc Ball"
+    }],
+    "room": "Strings"
+  }
+]
+[
+  {
+    "reservations": [{
+      "start": "2019-10-12",
+      "end": "2019-10-14",
+      "id": "CSE Revue"
+    }],
+    "room": "Sunflower"
+  },
+  {
+    "reservations": [{
+      "start": "2019-10-12",
+      "end": "2019-10-14",
+      "id": "CSE Revue"
+    }],
+    "room": "Iris"
+  },
+  {
+    "reservations": [],
+    "room": "Lily"
+  }
+]
